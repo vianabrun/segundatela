@@ -111,7 +111,7 @@ class MyApp extends StatelessWidget {
               title: Text('Configurações'),
             ),
             ListTile(
-                leading: Icon(Icons.import_export),
+                leading: Icon(Icons.info),
               title: Text('Sobre'),
             ),
       
